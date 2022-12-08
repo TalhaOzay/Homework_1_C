@@ -2,7 +2,7 @@
 #include <math.h>
 
 /*
-//1. Örnek
+//1. Ã–rnek
 int main(){
 	printf("1. ve 2. numarayi giriniz : ");
 	int First,Second;
@@ -15,7 +15,7 @@ return 0;
 */
 
 /*
-// 2. Örnek
+// 2. Ã–rnek
 int main(){
 	int r;
 	printf("Enter radius : ");
@@ -28,7 +28,7 @@ return 0;
 */
 
 /*
-// 3. Örnek
+// 3. Ã–rnek
 int main(){
 	int num;
 	printf("Enter the number : ");
@@ -43,7 +43,7 @@ return 0;
 */
 
 /*
-// 4. Örnek
+// 4. Ã–rnek
 int main(){
 	int Temp;
 	scanf("%d",&Temp);
@@ -59,7 +59,7 @@ return 0;
 */
 
 /*
-// 5. Örnek
+// 5. Ã–rnek
 int main(){
 	double F,C;
 	printf("Enter Fahrenheit : ");
@@ -71,7 +71,7 @@ return 0;
 */
 
 /*
-// 6. Örnek
+// 6. Ã–rnek
 int main(){
 	double feet;
 	printf("Enter the lengty as a feet : ");
@@ -82,7 +82,7 @@ return 0;
 */
 
 /*
-// 7. Örnek
+// 7. Ã–rnek
 int main(){
 	int a,b;
 	for (a=1;a<=10;a++){
@@ -94,7 +94,7 @@ return 0;
 */
 
 /*
-// 8. Örnek
+// 8. Ã–rnek
 int main(){
 	int low,high,sum;
 	printf("Firstly enter Low number then Enter High number :\n");
@@ -108,7 +108,7 @@ return 0;
 */
 
 /*
-// 9. Örnek
+// 9. Ã–rnek
 void main(){
 	int low,high,num;
 	printf("Firstly enter Low number then Enter High number :\n");
@@ -128,7 +128,7 @@ void main(){
 */
 
 /*
-// 10. Örnek
+// 10. Ã–rnek
 void main(){
 	int num,S;
 	printf("Enter number : ");
@@ -146,7 +146,7 @@ void main(){
 */
 
 /*
-// 11. Örnek
+// 11. Ã–rnek
 void main(){
 	int sum=0;
 	double product=1;
@@ -162,7 +162,7 @@ void main(){
 */
 
 /*
-// 12. Örnek
+// 12. Ã–rnek
 void main(){
 	int low,high,step;
 	printf("Firstly enter LOW number then HIGH number lastly STEP :\n");
@@ -177,7 +177,7 @@ void main(){
 */
 
 /*
-// 13. Örnek
+// 13. Ã–rnek
 void main(){
 	int x;
 	for (x=1;x<=10;x++){
@@ -187,7 +187,7 @@ void main(){
 */
 
 /*
-// 14. Örnek
+// 14. Ã–rnek
 void main(){
 	int num,temp;
 	double factor=1;
@@ -202,7 +202,7 @@ void main(){
 */
 
 /*
-// 15. Örnek
+// 15. Ã–rnek
 void main(){
 	int num;
 	printf("Enter number : ");
@@ -214,7 +214,7 @@ void main(){
 */
 
 /*
-// 16. Örnek
+// 16. Ã–rnek
 void main(){
 	int num;
 	printf("All even number between 1000 and 2000 :\n");
@@ -226,8 +226,8 @@ void main(){
 }
 */
 
-
-// 17. Örnek
+/*
+// 17. Ã–rnek
 void main(){
 	int num,x;
 	printf("Enter number : ");
@@ -235,21 +235,21 @@ void main(){
 	float sum;
 	sum=(1/num);
 	for (x=2;x<num;x+=2){                   //---------------------------------------------//
-		sum=sum+(1/x);                     // Kod doğru olmasına rağmen sonucu 0 veriyor. //
+		sum=sum+(1/x);                     // Kod doÃ°ru olmasÃ½na raÃ°men sonucu 0 veriyor. //
 	}                                     //---------------------------------------------//
 	printf("Answer of the question = %f",sum);
 }
-
+*/
 
 /*
-// 18. Örnek
+// 18. Ã–rnek
   //-----------------------------------------// 
- //Hoca sadece Algoritma yazmamızı istemişti//
+ //Hoca sadece Algoritma yazmamÃ½zÃ½ istemiÃ¾ti//
 //-----------------------------------------//
 */
 
 /*
-// 19. Örnek
+// 19. Ã–rnek
 void main(){
 	int num,x;
 	printf("Enter number : ");
@@ -261,7 +261,7 @@ void main(){
 */
 
 /*
-// 20. Örnek
+// 20. Ã–rnek
 void main(){
 	int num,temp;
 	int s=0;
@@ -277,7 +277,7 @@ void main(){
 */
 
 /*
-// 21. Örnek
+// 21. Ã–rnek
 void main(){
 	int num,last,first,temp;
 	printf("Enter number : ");
@@ -293,7 +293,7 @@ void main(){
 */
 
 /*
-// 22. Örnek
+// 22. Ã–rnek
 void main(){
 	int num,last,first,temp,temp2,s;
 	printf("Enter number : ");
@@ -318,7 +318,7 @@ void main(){
 */
 
 /*
-// 23. Örnek
+// 23. Ã–rnek
 void main(){
 	int num,rem,temp;
 	int sum=0;
@@ -338,7 +338,7 @@ void main(){
 }*/
 
 /*
-// 24. Örnek
+// 24. Ã–rnek
 void main(){
 	int s0=0;
 	int s4=0;
@@ -391,7 +391,7 @@ void main(){
 */
 
 /*
-// 25. Örnek
+// 25. Ã–rnek
 void main(){
 	int num1,num2,HCF,div;
 	printf("Enter firstly small number : ");
